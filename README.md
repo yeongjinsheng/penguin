@@ -1,6 +1,6 @@
 # Penguin Books Scraper
 
-A Python web scraper that extracts book titles and authors from Penguin Books search results using `httpx` and `selectolax`.
+A Python web scraper that extracts book titles and authors (mostly Epictetus related) from Penguin Books search results using `httpx` and `selectolax`.
 
 ## Getting Started
 
