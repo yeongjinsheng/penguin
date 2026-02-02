@@ -18,3 +18,9 @@ cd Penguin
 # Create and activate virtual environment
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
+```
+
+### 3. Install requirements.txt
+```bash
+pip install -r requirements.txt
+```
